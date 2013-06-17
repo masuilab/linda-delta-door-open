@@ -7,6 +7,11 @@ open door-lock with RocketIO::Linda and Servo-motor on Arduino
 * then write tuple ["door", "open", "success"]
 
 
+Video
+-----
+http://www.youtube.com/watch?v=mHJhTMvtmPQ
+
+
 Dependencies
 ------------
 - [Servo Motor](http://akizukidenshi.com/catalog/g/gM-01794/)
