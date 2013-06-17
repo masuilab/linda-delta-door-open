@@ -36,7 +36,8 @@ Install Arduino Firmata v2.2
 
     Arduino IDE -> [File] -> [Examples] -> [Firmata] -> [StandardFirmata]
 
-put servo motor
+servo motor -> digital pin 9
+
 
 Run
 ---
