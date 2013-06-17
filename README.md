@@ -2,7 +2,7 @@ Linda Delta Door Open
 =====================
 open door-lock with RocketIO::Linda and Servo-motor on Arduino
 
-* https://github.com/shokai/linda-delta-door-open
+* https://github.com/masuilab/linda-delta-door-open
 * watch tuple ["door", "open"] and open door
 * then write tuple ["door", "open", "success"]
 
