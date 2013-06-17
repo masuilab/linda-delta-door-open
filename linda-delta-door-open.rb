@@ -24,7 +24,8 @@ EM::run do
       arduino.servo_write 9, 0
       sleep 2
       arduino.servo_write 9, 180
-      ts.write ["door", "open", "success"]
+      tuple << "success"
+      ts.write tuple
       last_at = Time.now
     end
   end
